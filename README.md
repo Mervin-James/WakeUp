@@ -30,4 +30,4 @@ The goal of WakeUp! is to bring awareness to a prevalent problem in the United S
 *dlib*, 
 *python*, 
 *raspberry-pi*, 
-*Intel realsense*, 
+*Intel realsense* 
