@@ -12,7 +12,7 @@ Once WakeUp! recognizes a sleepy driver, it sends out a stimulus in the form of 
 # Challenges we ran into
 We had lots of trouble troubleshooting the Rasberry Pi with a depth-sensing camera and being able to compile the correct Python libraries for the project. This project was also the first time our team had used SSH on Raspberry Pi and Twilio, the latter of which we were very excited to learn.
 
-# One of the biggest challenges we faced was setting up our laptop as an external display for the Raspberry Pi. We had to set up a VNC server over the network to allow the Pi to communicate with our Macbook.
+One of the biggest challenges we faced was setting up our laptop as an external display for the Raspberry Pi. We had to set up a VNC server over the network to allow the Pi to communicate with our Macbook.
 
 # Accomplishments that we're proud of
 Being able to integrate the specialized camera and the Raspberry Pi together in real-time with our software, which was comprised of OpenCV, dlib, Twilio, imutiles, and a couple more APIs.
