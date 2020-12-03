@@ -26,8 +26,8 @@ We would like to conduct more trials and improve our algorithm beyond the ~95% s
 The goal of WakeUp! is to bring awareness to a prevalent problem in the United States and to provide a viable solution.
 
 # Built With
-*opencv*
-*dlib*
-*python*
-*raspberry-pi*
-*Intel realsense*
+*opencv*, 
+*dlib*, 
+*python*, 
+*raspberry-pi*, 
+*Intel realsense*, 
